@@ -1,5 +1,6 @@
 {
     "name": "Theo's Adventure: Rewritten",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
